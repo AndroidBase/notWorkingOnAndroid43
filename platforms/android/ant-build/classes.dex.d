@@ -1,0 +1,22 @@
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes.dex : \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes/com/infoware/hello/BuildConfig.class \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes/com/infoware/hello/hello.class \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes/com/infoware/hello/R$attr.class \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes/com/infoware/hello/R$drawable.class \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes/com/infoware/hello/R$string.class \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes/com/infoware/hello/R$xml.class \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes/com/infoware/hello/R.class \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes/de/appplant/cordova/plugin/localnotification/LocalNotification$1.class \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes/de/appplant/cordova/plugin/localnotification/LocalNotification$2.class \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes/de/appplant/cordova/plugin/localnotification/LocalNotification$3.class \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes/de/appplant/cordova/plugin/localnotification/LocalNotification$4.class \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes/de/appplant/cordova/plugin/localnotification/LocalNotification.class \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes/de/appplant/cordova/plugin/localnotification/Options.class \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes/de/appplant/cordova/plugin/localnotification/Receiver.class \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes/de/appplant/cordova/plugin/localnotification/ReceiverActivity.class \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes/de/appplant/cordova/plugin/localnotification/Restore.class \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/classes/org/jshybugger/cordova/JsHybuggerPlugin.class \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/dexedLibs/classes-b4a1e3333b9ce2ef55e76186a02fb35e.jar \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/dexedLibs/jshybugger-library-052941d63c013d751fb82d2cd6d04928.jar \
+/Users/Jocke/Dropbox/webstorm/hello/platforms/android/ant-build/dexedLibs/android-support-v4-3954af383c7700523ca6c1b3c2007191.jar \

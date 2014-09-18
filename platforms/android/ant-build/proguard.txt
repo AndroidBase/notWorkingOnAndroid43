@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:6
+-keep class com.infoware.hello.hello { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class de.appplant.cordova.plugin.localnotification.Receiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class de.appplant.cordova.plugin.localnotification.ReceiverActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class de.appplant.cordova.plugin.localnotification.Restore { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class org.jshybugger.DebugContentProvider { <init>(...); }
+
